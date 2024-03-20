@@ -1,35 +1,35 @@
-Cache ID;Cache Type;Cache Name;Distance;Direction;Owner;Creation Date;Size;Difficulty;Terrain;Favorite Points;Found It Logs;FP%
-GCAHJXJ;Earth Cache;Univerzitné zlato / University's gold;2,55;NE;tsk88;06/01/2024;Other;2,5;1,0;6;29;23
-GC8QFJJ;Traditional Cache;Hádzanárska hala;312,2;E;tsk88;11/05/2020;Small;2,5;1,5;4;94;6
-GC98EYD;Mystery Cache;Ulička starých remesiel / Alley of old crafts;313,95;E;tsk88;18/06/2021;Other;2,5;1,0;156;245;72
-GC9G244;Traditional Cache;Kostol Najsvätejšieho Srdca Ježišovho;314,0;E;tsk88;25/10/2021;Other;2,0;2,5;23;333;12
-GC9G23N;Multi Cache;Košická kalvária;312,56;E;tsk88;28/12/2021;Small;3,5;2,5;18;89;27
-GC9KZZK;Traditional Cache;Smokovecká kyselka;255,95;NE;tsk88;07/02/2022;Micro;2,5;2,0;0;400;0
-GC9P8AQ;Virtual Cache;Tatranská meteostanica;255,87;NE;tsk88;27/03/2022;Virtual;1,5;1,0;26;712;6
-GC9G24T;Letterbox Hybrid;Kamzíkova prechádzka vysokotatranskou kalváriou;255,79;NE;tsk88;13/07/2022;Small;2,5;2,0;59;129;50
-GC9W24V;Mystery Cache;Duchovia zo Zeleného dvora;317,14;E;tsk88;18/07/2022;Other;4,0;2,0;47;74;71
-GC9WJBX;Letterbox Hybrid;Vrana Hana a jej cesta vlakom;320,34;E;tsk88;09/09/2022;Large;2,5;1,5;33;40;94
-GCA33AT;Mystery Cache;Feedback;314,2;E;tsk88;27/12/2022;Other;2,0;1,5;22;53;47
-GCA3G9E;Traditional Cache;Mestský park;314,29;E;tsk88;05/01/2023;Other;2,5;1,5;6;162;4
-GCA33D9;Traditional Cache;Ako dedko ťahal mrkvu;313,71;E;tsk88;23/01/2023;Micro;2,0;2,0;25;87;32
-GCA83AZ;Mystery Cache;Rozhľadňa Čerešenka;323,6;E;tsk88;13/06/2023;Small;2,5;2,0;26;45;65
-GC9VAVT;Mystery Cache;Poklad Kamenického hradu;308,24;NE;tsk88;18/07/2023;Regular;2,5;2,5;7;17;46
-GCA3351;Traditional Cache;Centrum tradičnej kultúry Kamenica;307,44;NE;tsk88;18/07/2023;Small;2,0;1,5;4;28;27
-GCAC0B3;Earth Cache;Tufový kaňon v Slanských vrchoch;322,4;E;tsk88;17/08/2023;Other;2,0;2,5;5;11;50
-GCACMJN;Letterbox Hybrid;Knižnica pre mládež;313,58;E;tsk88;18/08/2023;Regular;2,5;1,5;31;37;94
-GCADC8Q;Earth Cache;Stanišovská jaskyňa;213,59;NE;tsk88;28/08/2023;Other;3,0;2,5;1;8;20
-GCAD097;Earth Cache;Travertínová kopa Sivá brada;284,07;E;tsk88;12/09/2023;Other;3,0;2,5;8;23;38
-GCAD08Z;Earth Cache;Minerálny prameň Gajdovka;314,06;E;tsk88;13/09/2023;Other;2,5;1,5;7;35;24
-GCAD0B1;Earth Cache;Cemjata - Kvašná voda;314,68;E;tsk88;13/09/2023;Other;2,5;1,5;0;15;0
-GCAK8YM;Letterbox Hybrid;Knižnica pre mládež - Valentín;312,24;E;tsk88;14/02/2024;Regular;2,5;1,5;15;19;100
-GCAHJXX;Earth Cache;Fosílie ovládli Bratislavu;2,72;N;tsk88;05/03/2024;Other;3,5;1,0;1;6;17
-GCA94J4;Event Cache;Bled Meet&Greet;298,31;SW;tsk88;02/07/2023;Other;1,0;1,0;0;3;0
-GCA969G;Event Cache;Černý důl Meet&Greet;297,23;N;tsk88;02/08/2023;Other;1,0;1,0;0;5;0
-GCA94HX;Event Cache;Krk Meet&Greet 2023;394,55;SW;tsk88;10/07/2023;Other;1,0;1,0;0;7;0
-GCAE63X;Event Cache;S mamkou na pive 2;313,83;E;tsk88;12/01/2024;Other;1,0;1,5;0;21;0
-GCA28EQ;Event Cache;S mamkou na pive;314,52;E;tsk88;13/01/2023;Other;1,0;1,5;0;29;0
-GCA50Z8;Event Cache;Darovanie krvi 2023;312,29;E;tsk88;19/05/2023;Other;1,0;1,0;0;9;0
-GC2TTD9;Traditional Cache;Kamenický hrad;308,15;NE;tsk88;22/05/2011;Small;2,0;3,5;18;233;20
-GCA32CQ;Event Cache;História Kamenice;307,45;NE;tsk88;22/07/2023;Other;1,0;1,5;0;7;0
-GCA969F;Event Cache;Ostružná Meet&Greet;229,49;N;tsk88;24/07/2023;Other;1,0;1,5;0;2;0
-GCA969K;Event Cache;Hradec Králové Meet&Greet;249,91;N;tsk88;30/07/2023;Other;1,0;1,5;0;19;0
+Cache ID;Cache Type;Cache Name;Distance;Direction;Owner;Creation Date;Size;Difficulty;Terrain;Favorite Points;Found It Logs;FP%;Location
+GCAHJXJ;Earth Cache;Univerzitné zlato / University's gold;2,55;NE;tsk88;06/01/2024;Other;2,5;1,0;6;29;23;N 048° 08.470' E 017° 06.960'
+GCAC0B3;Earth Cache;Tufový kaňon v Slanských vrchoch;322,4;E;tsk88;17/08/2023;Other;2,0;2,5;5;11;50;N 048° 48.879' E 021° 20.880'
+GCADC8Q;Earth Cache;Stanišovská jaskyňa;213,59;NE;tsk88;28/08/2023;Other;3,0;2,5;1;8;20;N 049° 00.513' E 019° 40.570'
+GCAD097;Earth Cache;Travertínová kopa Sivá brada;284,07;E;tsk88;12/09/2023;Other;3,0;2,5;8;23;38;N 049° 00.418' E 020° 43.395'
+GCAD08Z;Earth Cache;Minerálny prameň Gajdovka;314,06;E;tsk88;13/09/2023;Other;2,5;1,5;7;35;24;N 048° 45.055' E 021° 15.160'
+GCAD0B1;Earth Cache;Cemjata - Kvašná voda;314,68;E;tsk88;13/09/2023;Other;2,5;1,5;0;15;0;N 048° 58.973' E 021° 10.492'
+GCAHJXX;Earth Cache;Fosílie ovládli Bratislavu;2,72;N;tsk88;05/03/2024;Other;3,5;1,0;1;6;17;N 048° 08.605' E 017° 06.799'
+GCA94J4;Event Cache;Bled Meet&Greet;298,31;SW;tsk88;02/07/2023;Other;1,0;1,0;0;3;0;N 046° 22.114' E 014° 06.503'
+GCA969G;Event Cache;Černý důl Meet&Greet;297,23;N;tsk88;02/08/2023;Other;1,0;1,0;0;5;0;N 050° 38.090' E 015° 42.617'
+GCA94HX;Event Cache;Krk Meet&Greet 2023;394,55;SW;tsk88;10/07/2023;Other;1,0;1,0;0;7;0;N 045° 01.573' E 014° 34.428'
+GCAE63X;Event Cache;S mamkou na pive 2;313,83;E;tsk88;12/01/2024;Other;1,0;1,5;0;21;0;N 048° 43.326' E 021° 15.477'
+GCA28EQ;Event Cache;S mamkou na pive;314,52;E;tsk88;13/01/2023;Other;1,0;1,5;0;29;0;N 048° 43.361' E 021° 16.045'
+GCA50Z8;Event Cache;Darovanie krvi 2023;312,29;E;tsk88;19/05/2023;Other;1,0;1,0;0;9;0;N 048° 43.330' E 021° 14.200'
+GCA32CQ;Event Cache;História Kamenice;307,45;NE;tsk88;22/07/2023;Other;1,0;1,5;0;7;0;N 049° 11.586' E 020° 57.650'
+GCA969F;Event Cache;Ostružná Meet&Greet;229,49;N;tsk88;24/07/2023;Other;1,0;1,5;0;2;0;N 050° 11.014' E 017° 03.057'
+GCA969K;Event Cache;Hradec Králové Meet&Greet;249,91;N;tsk88;30/07/2023;Other;1,0;1,5;0;19;0;N 050° 12.408' E 015° 49.538'
+GC9G24T;Letterbox Hybrid;Kamzíkova prechádzka vysokotatranskou kalváriou;255,79;NE;tsk88;13/07/2022;Small;2,5;2,0;59;129;50;N 049° 08.663' E 020° 13.437'
+GC9WJBX;Letterbox Hybrid;Vrana Hana a jej cesta vlakom;320,34;E;tsk88;09/09/2022;Large;2,5;1,5;33;40;94;N 048° 37.644' E 021° 22.364'
+GCACMJN;Letterbox Hybrid;Knižnica pre mládež;313,58;E;tsk88;18/08/2023;Regular;2,5;1,5;31;37;94;N 048° 42.806' E 021° 15.332'
+GCAK8YM;Letterbox Hybrid;Knižnica pre mládež - Valentín;312,24;E;tsk88;14/02/2024;Regular;2,5;1,5;15;19;100;N 048° 42.962' E 021° 14.237'
+GC9G23N;Multi Cache;Košická kalvária;312,56;E;tsk88;28/12/2021;Small;3,5;2,5;18;89;27;N 048° 43.711' E 021° 13.854'
+GC98EYD;Mystery Cache;Ulička starých remesiel / Alley of old crafts;313,95;E;tsk88;18/06/2021;Other;2,5;1,0;156;245;72;N 048° 43.363' E 021° 15.602'
+GC9W24V;Mystery Cache;Duchovia zo Zeleného dvora;317,14;E;tsk88;18/07/2022;Other;4,0;2,0;47;74;71;N 048° 46.396' E 021° 17.272'
+GCA33AT;Mystery Cache;Feedback;314,2;E;tsk88;27/12/2022;Other;2,0;1,5;22;53;47;N 048° 43.409' E 021° 15.706'
+GCA83AZ;Mystery Cache;Rozhľadňa Čerešenka;323,6;E;tsk88;13/06/2023;Small;2,5;2,0;26;45;65;N 048° 47.642' E 021° 22.408'
+GC9VAVT;Mystery Cache;Poklad Kamenického hradu;308,24;NE;tsk88;18/07/2023;Regular;2,5;2,5;7;17;46;N 049° 11.760' E 020° 58.021'
+GC8QFJJ;Traditional Cache;Hádzanárska hala;312,2;E;tsk88;11/05/2020;Small;2,5;1,5;4;94;6;N 048° 41.961' E 021° 14.504'
+GC9G244;Traditional Cache;Kostol Najsvätejšieho Srdca Ježišovho;314,0;E;tsk88;25/10/2021;Other;2,0;2,5;23;333;12;N 048° 43.716' E 021° 15.174'
+GC9KZZK;Traditional Cache;Smokovecká kyselka;255,95;NE;tsk88;07/02/2022;Micro;2,5;2,0;0;400;0;N 049° 08.538' E 020° 13.404'
+GCA3G9E;Traditional Cache;Mestský park;314,29;E;tsk88;05/01/2023;Other;2,5;1,5;6;162;4;N 048° 43.417' E 021° 15.840'
+GCA33D9;Traditional Cache;Ako dedko ťahal mrkvu;313,71;E;tsk88;23/01/2023;Micro;2,0;2,0;25;87;32;N 048° 44.641' E 021° 14.989'
+GCA3351;Traditional Cache;Centrum tradičnej kultúry Kamenica;307,44;NE;tsk88;18/07/2023;Small;2,0;1,5;4;28;27;N 049° 11.579' E 020° 57.649'
+GC2TTD9;Traditional Cache;Kamenický hrad;308,15;NE;tsk88;22/05/2011;Small;2,0;3,5;18;233;20;N 049° 11.753' E 020° 58.174'
+GC9P8AQ;Virtual Cache;Tatranská meteostanica;255,87;NE;tsk88;27/03/2022;Virtual;1,5;1,0;26;712;6;N 049° 08.429' E 020° 13.409'
